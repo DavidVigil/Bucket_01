@@ -66,7 +66,7 @@ Aclaramos las normas para añadir nuevos integrantes al proyecto.
   disipar el calor utilizando Novec o canalizarlo con barras de
   metal para crear burbujas y aprovechar su energía cinética.
 - Fernando: Propuse las aleaciones con base de magnesio debido a
-  que es el material mas ligero y mas utilizado en la industria
-  mecánica y aeroespacial, por lo que no sera dificil su
-  investigación aparte de ser uno de los materiales mas abundantes
-  de la tierra. 
+  que es el material más ligero y mas utilizado en la industria
+  mecánica y aeroespacial, por lo que no será difícil su
+  investigación aparte de ser uno de los materiales más abundantes
+  de la tierra.
