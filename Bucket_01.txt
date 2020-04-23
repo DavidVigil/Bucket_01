@@ -70,3 +70,7 @@ Aclaramos las normas para añadir nuevos integrantes al proyecto.
   mecánica y aeroespacial, por lo que no será difícil su
   investigación aparte de ser uno de los materiales más abundantes
   de la tierra.
+- Gibrán: Expuse sobre las ventajas que puede tener el aluminio 
+  como material a usar no sólo en las turbinas, investigue sobre 
+  la reducción de engranajespara cambiar fuerza por velocidad y 
+  mediante inducción, poder generar una corriente alterna. 
