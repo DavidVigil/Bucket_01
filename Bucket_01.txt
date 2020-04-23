@@ -55,4 +55,5 @@ Compartimos conocimiento de la generación de energia solar y eólica.
   la viabilidad de ambos materiales.
 -------------------------------------------------------------------
 Abril 23/Reunión 4:
--Arturo: Comenté sobre la reducción de engranes para potenciar el movimiento del generador.
+-Arturo: Comenté sobre la reducción de engranes para potenciar el 
+ movimiento del generador.
