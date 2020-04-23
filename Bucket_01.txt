@@ -55,5 +55,13 @@ Compartimos conocimiento de la generación de energia solar y eólica.
   la viabilidad de ambos materiales.
 -------------------------------------------------------------------
 Abril 23/Reunión 4:
--Arturo: Comenté sobre la reducción de engranes para potenciar el 
+Discutimos los materiales que se pueden emplear para las helices de
+las turbinas, así como para el resto del dispositivo. Mencionamos
+la forma en la que se puede multiplicar la fuerza de las turbinas.
+Aclaramos las normas para añadir nuevos integrantes al proyecto.
+- Arturo: Comenté sobre la reducción de engranes para potenciar el
  movimiento del generador.
+- David: Expuse las propiedades de la resina epoxy que pueden ser
+  de utilidad para el dispositivo. Propuse 2 modelos que permiten
+  disipar el calor utilizando Novec o canalizarlo con barras de
+  metal para crear burbujas y aprovechar su energía cinética.
