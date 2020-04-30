@@ -17,7 +17,7 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 - [DONE] Investigar como canalizar y reutilizar calor.
 - Investigar materiales ligeros que sean resistentes a distintas
   condiciones climáticas para las helices de las turbinas.
-- Investigar como potenciar el movimiento del eje mayor a un
+- [DONE]Investigar como potenciar el movimiento del eje mayor a un
   eje menor utilizando engranes (Cómo calcularlo).
 - Diseñar sistemas de refleccion y refractación que permitan
   canalizar una gran cantidad de luz en un solo punto (Estudiar
@@ -25,4 +25,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 - Analizar la posibilidad de implementar varias turbinas o 1
   (Depende del material de las turbinas)
 - Pensar en modelos que no requieran el uso de Novec y proponer
-  sistemas que funciones
+  sistemas que funcione.
+- Investigar propiedades del policarbono y (precios)

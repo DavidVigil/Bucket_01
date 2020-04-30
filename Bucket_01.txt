@@ -76,6 +76,9 @@ Aclaramos las normas para añadir nuevos integrantes al proyecto.
   mediante inducción, poder generar una corriente alterna.
 ------------------------------------------------------------------
 Abril 30/Reunión 5:
+En esta reunión se expusieron los distintos enfoques que existen
+sobre el diseño del dispositivo, y sincronizamos nuestras metas
+sobre las caracteristicas del mismo. Discutimos materiales y modelos.
 - Arturo: Explique el cálculo de reducción de engranajes para
   conseguir una mayor velocidad de salida del sistema. Propuse un
   modelo de 3 turbinas para aprovechar las corrientes que se generan
@@ -93,3 +96,7 @@ Abril 30/Reunión 5:
   ya que no conduce corriente. Propuse una estructura aerodinamica para
   el proyecto con impresion 3D. Propuse una forma de distribuir los
   paneles solares.
+- David: Planteé la implementación de un domo de policarbono para
+  proteger el dispositivo de la lluvia y el granizo sin obstruir
+  el paso de la luz. También sugerí un sistema de adhesión para
+  diversas superficies.
