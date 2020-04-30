@@ -76,3 +76,10 @@ Aclaramos las normas para añadir nuevos integrantes al proyecto.
   mediante inducción, poder generar una corriente alterna.
 ------------------------------------------------------------------
 Abril 30/Reunión 5: 
+- Arturo: Explique el cálculo de reducción de engranajes para 
+conseguir una mayor velocidad de salida del sistema. Propuse un 
+modelo de 3 turbinas para aprovechar las corrientes que se generan 
+entre ellas para producir más energía sin la necesidad de una gran 
+corriemte de aire. Propuse un sistema de generación de energía con 
+vapor de agua como manera de aprovechar el calor que se pueda 
+generar con el sol.
