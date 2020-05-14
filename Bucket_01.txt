@@ -107,3 +107,19 @@ de trabajo del equipo, el objetivo del proyecto y algunos de los
 puntos más importantes del desarrollo. Participaron Ricardo y David.
 --------------------------------------------------------------------
 Mayo 14/Reunión 7:
+En esta reunión se implementó la herramienta "Teletype" para agilizar
+la edición de los documentos del equipo. (Participó Ricardo)
+- David: Mencioné la características del policarbonato y recordé la
+  razón por la que se eligió este material. A comparación del acrílico,
+  el policarbonato resiste 250 veces más que el vidrio, mientras que
+  el acrílico resiste unicamente 17 veces más que el vidrio.
+  Sin embargo, el policarbonato deja pasar el 88% de la luz y el
+  acrílico permite un 92%. El policarbonato soporta una temperatura de
+  115 grados y el acrílico soporta 87 grados. Si bien no es una opción
+  muy económica, es facílmente uno de los elementos.
+- Fernando: Se apoya con la implementación de Teletype a los miembros
+  del equipo, registro e ingreso.
+  Mencioné la posibilidad de colocar ventiladores dentro de otro
+  ventilador a forma de Matrioshka para aumentar el aprovechamiento
+  del flujo.
+-------------------------------------------------------------------
