@@ -26,5 +26,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   (Depende del material de las turbinas)
 - Pensar en modelos que no requieran el uso de Novec y proponer
   sistemas que funcione.
-- Investigar propiedades del policarbono y (precios)
+- Investigar propiedades del policarbonato y (precios)
 - Agregar Teletype a Atom para editar en tiempo real.
