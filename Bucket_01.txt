@@ -5,15 +5,14 @@ cada reunión de la siguiente manera:
   - Dentro de la reunión, cada miembro debe registrar su progreso,
     empezando por su nombre.
 Ejemplo:
---------------------------------------------------------------------
 Marzo 22/Reunión 0:
 - David:
   Este proyecto busca desarrollar hardware de calidad capaz de
-  recolectar y almacenar energia (tentativamente solar y eolica).
+  recolectar y almacenar energía (tentativamente solar y eólica).
   Podemos utilizar arduino e implementar simulaciones con Blender
 --------------------------------------------------------------------
 Marzo 26/Reunión 1:
-Hicimos pruebas con atom y las funciones de GitHub.
+Hicimos pruebas con Atom y las funciones de GitHub.
 Discutimos el modo de trabajo y fijamos turnos y horarios.
 Se discutieron posibles materiales, así como la forma de obtenerlos.
 - Fernando:
@@ -27,7 +26,7 @@ Se discutieron posibles materiales, así como la forma de obtenerlos.
   Incluí el impacto ambiental y huella de carbono sobre cada
   material.
 - David:
-  Propusé links de venta para los paneles solares.
+  Propuse links de venta para los paneles solares.
 --------------------------------------------------------------------
 Abril 2/Reunión 2:
 Discutimos como canalizar calor para aprovecharlo.
@@ -35,32 +34,32 @@ Acordamos usar refrigeración por inmersión.
 Se discutieron normas de trabajo para el equipo.
 - Fernando:
   Propuse un sistema de refrigeración y aprovechamiento del calor
-  por inmersion del proyecto.
+  por inmersión del proyecto.
 - David:
-  Propuse tecnicas para canalizar la luz utilizando espejos y lentes.
+  Propuse técnicas para canalizar la luz utilizando espejos y lentes.
   Propuse un modelo para convertir el calor en energía mecánica.
 --------------------------------------------------------------------
 Abril 16/Reunión 3:
 Repasamos las ideas expuestas en reuniones anteriores.
 Determinamos que el uso de PET reciclado no es viable.
-Compartimos conocimiento de la generación de energia solar y eólica.
+Compartimos conocimiento de la generación de energía solar y eólica.
 - David: Propuse turbinas de eje vertical para aprovechar la energía
   eólica y planteé 2 arreglos posibles para optimizar el sistema.
-  Compartí mi investigación sobre Two phase immersion cooling
-  systems.
+  Compartí mi investigación sobre Two Phase Immersion Cooling
+  Systems.
 - Diego: Comenté las dos vías existentes (métodos químicos y
   métodos mecánicos) por las cuales es posible el reciclaje de
   PVC. Propuse el aluminio o las resinas epoxy como material
   para las aspas en las turbinas eólicas aunque queda por comprobar
   la viabilidad de ambos materiales.
--------------------------------------------------------------------
+--------------------------------------------------------------------
 Abril 23/Reunión 4:
-Discutimos los materiales que se pueden emplear para las helices de
+Discutimos los materiales que se pueden emplear para las hélices de
 las turbinas, así como para el resto del dispositivo. Mencionamos
 la forma en la que se puede multiplicar la fuerza de las turbinas.
 Aclaramos las normas para añadir nuevos integrantes al proyecto.
 - Arturo: Comenté sobre la reducción de engranes para potenciar el
- movimiento del generador.
+  movimiento del generador.
 - David: Expuse las propiedades de la resina epoxy que pueden ser
   de utilidad para el dispositivo. Propuse 2 modelos que permiten
   disipar el calor utilizando Novec o canalizarlo con barras de
@@ -71,55 +70,56 @@ Aclaramos las normas para añadir nuevos integrantes al proyecto.
   investigación aparte de ser uno de los materiales más abundantes
   de la tierra.
 - Gibrán: Expuse sobre las ventajas que puede tener el aluminio
-  como material a usar no sólo en las turbinas, investigue sobre
+  como material a usar no sólo en las turbinas, investigué sobre
   la reducción de engranajes para cambiar fuerza por velocidad y
   mediante inducción, poder generar una corriente alterna.
-------------------------------------------------------------------
+--------------------------------------------------------------------
 Abril 30/Reunión 5:
 En esta reunión se expusieron los distintos enfoques que existen
 sobre el diseño del dispositivo, y sincronizamos nuestras metas
 sobre las caracteristicas del mismo. Discutimos materiales y modelos.
-- Arturo: Explique el cálculo de reducción de engranajes para
+- Arturo: Expliqué el cálculo de reducción de engranajes para
   conseguir una mayor velocidad de salida del sistema. Propuse un
   modelo de 3 turbinas para aprovechar las corrientes que se generan
   entre ellas para producir más energía sin la necesidad de una gran
-  corriemte de aire. Propuse un sistema de generación de energía con
+  corriente de aire. Propuse un sistema de generación de energía con
   vapor de agua como manera de aprovechar el calor que se pueda
   generar con el sol.
 - Gibrán: Comenté sobre las reducciones de engranajes de 1 o 2
   ejes. Investigué sobre los cálculos matemáticos necesarios para
   dicha reducción. Comenté acerca el circuito que debe de tener
   internamente para almacenar la energía con un convertidor de
-  corriente para tener un voltaje de salida conveniente a dispositivos
-  que ocupen opca corriente.
-- Fernando: Comente el agua destilada como una alternativa al Novec
-  ya que no conduce corriente. Propuse una estructura aerodinamica para
-  el proyecto con impresion 3D. Propuse una forma de distribuir los
-  paneles solares.
-- David: Planteé la implementación de un domo de policarbono para
+  corriente para tener un voltaje de salida conveniente a dispositi-
+  vos que ocupen poca corriente.
+- Fernando: Comenté el agua destilada como una alternativa al Novec
+  ya que no conduce corriente. Propuse una estructura aerodinámica
+  para el proyecto con impresión 3D. Propuse una forma de distribuir
+  los paneles solares.
+- David: Planteé la implementación de un domo de policarbonato para
   proteger el dispositivo de la lluvia y el granizo sin obstruir
   el paso de la luz. También sugerí un sistema de adhesión para
   diversas superficies.
 --------------------------------------------------------------------
 Mayo 7/Reunión 6:
-En esta reunión, nuestro miembro más reciente escuchó la dinamica
-de trabajo del equipo, el objetivo del proyecto y algunos de los
-puntos más importantes del desarrollo. Participaron Ricardo y David.
+En esta reunión, el miembro nuevo más reciente (Ricardo) escuchó la
+dinamica de trabajo del equipo, el objetivo del proyecto y algunos
+de los puntos más importantes del desarrollo.
 --------------------------------------------------------------------
 Mayo 14/Reunión 7:
-En esta reunión se implementó la herramienta "Teletype" para agilizar
-la edición de los documentos del equipo. (Participó Ricardo)
-- David: Mencioné la características del policarbonato y recordé la
-  razón por la que se eligió este material. A comparación del acrílico,
-  el policarbonato resiste 250 veces más que el vidrio, mientras que
-  el acrílico resiste unicamente 17 veces más que el vidrio.
+En esta reunión se implementó la herramienta "Teletype" para agili-
+zar la edición de los documentos del equipo.
+- David: Mencioné la características del policarbonato y reiteré la
+  razón por la que se eligió este material. A comparación del acrí-
+  lico, el policarbonato resiste 250 veces más que el vidrio, mien-
+  tras que el acrílico resiste unicamente 17 veces más que el vidrio.
   Sin embargo, el policarbonato deja pasar el 88% de la luz y el
-  acrílico permite un 92%. El policarbonato soporta una temperatura de
-  115 grados y el acrílico soporta 87 grados. Si bien no es una opción
-  muy económica, es facílmente uno de los elementos.
-- Fernando: Se apoya con la implementación de Teletype a los miembros
-  del equipo, registro e ingreso.
+  acrílico permite un 92%. El policarbonato soporta una temperatura
+  de 115 grados y el acrílico soporta 87 grados. Si bien no es una
+  opción muy económica, es facílmente uno de los elementos de mayor
+  importancia para el diseño del dispositivo.
+- Fernando: Se apoya con la implementación de Teletype a los
+  miembros del equipo, registro e ingreso.
   Mencioné la posibilidad de colocar ventiladores dentro de otro
   ventilador a forma de Matrioshka para aumentar el aprovechamiento
   del flujo.
--------------------------------------------------------------------
+--------------------------------------------------------------------
