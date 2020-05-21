@@ -123,4 +123,15 @@ zar la edición de los documentos del equipo.
   ventilador a forma de Matrioshka para aumentar el aprovechamiento
   del flujo.
 --------------------------------------------------------------------
-Mayo 21/Reunión 8
+Mayo 21/Reunión 8:
+- David: Hablé sobre el efecto Seebeck y las celdas Peltier, además
+  de mencionar los últimos avances tecnológicos de las celdas solares
+  (Perovskite). Propuse 2 formas para aprovechar el calor, basado en
+  los efectos anteriores.
+- Gibrán: Mencioné técnicas de origami para poder plegar los paneles
+  de la flor y mencioné una forma de poder separar la luz para
+  aprovechar las ondas de calor.
+- Diego: Complemente la idea de Arturo al utilizar los motores Stirling
+  para tambien disipar el calor y usarlos como medio de enfriamiento.
+  Mencione que existen modelos de paneles solares que constan de una 
+  matriz de lentes cuya funcion es dirigir y concentrar la luz solar.
