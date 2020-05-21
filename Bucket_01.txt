@@ -124,6 +124,9 @@ zar la edición de los documentos del equipo.
   del flujo.
 --------------------------------------------------------------------
 Mayo 21/Reunión 8:
+En esta reunión se discutió la importancia y trascendencia de este
+proyecto y su impacto global. Nos centramos en el aprovechamiento
+del calor. Nos centramos en la teoría termoeléctrica.
 - David: Hablé sobre el efecto Seebeck y las celdas Peltier, además
   de mencionar los últimos avances tecnológicos de las celdas solares
   (Perovskite). Propuse 2 formas para aprovechar el calor, basado en
@@ -133,8 +136,9 @@ Mayo 21/Reunión 8:
   aprovechar las ondas de calor.
 - Diego: Complemente la idea de Arturo al utilizar los motores Stirling
   para tambien disipar el calor y usarlos como medio de enfriamiento.
-  Mencione que existen modelos de paneles solares que constan de una 
+  Mencione que existen modelos de paneles solares que constan de una
   matriz de lentes cuya funcion es dirigir y concentrar la luz solar.
 - Arturo: Presenté la idea de utilizar un motor Stirling como forma de
-  aprovechar el calor concentrado del sol para generar un poco más de 
+  aprovechar el calor concentrado del sol para generar un poco más de
   energía eléctrica.
+--------------------------------------------------------------------
