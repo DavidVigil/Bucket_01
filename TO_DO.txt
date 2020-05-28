@@ -21,13 +21,15 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 - [DISMISSED] Investigar como canalizar y almacenar el calor.
 - [DISMISSED] Pensar en modelos que no requieran el uso de Novec y
   proponer sistemas que funcionen.
-- Investigar materiales ligeros que sean resistentes a distintas
+- [DISMISSED] Investigar materiales ligeros que sean resistentes a distintas
   condiciones climáticas para las helices de las turbinas.
+- [DISMISSED] Analizar la posibilidad de implementar varias turbinas o 1
+  (Depende del material de las turbinas).
+- [DISMISSED] Investigar buenos materiales conductores térmicos.
+- [DISMISSED] Investigar materiales de "la flor" (Como pegar las partes).
+- Investigar el funcionamiento y practicidad de la maquina de vapor.
 - Diseñar sistemas de refleccion y refracción que permitan
   canalizar una gran cantidad de luz en un solo punto (Estudiar
   óptica).
-- Analizar la posibilidad de implementar varias turbinas o 1
-  (Depende del material de las turbinas).
-- Investigar buenos materiales conductores térmicos.
-- Investigar el funcionamiento y practicidad de la maquina de vapor.
-- Investigar materiales de "la flor" (Como pegar las partes).
+- Investigar metales eficientes para el principio de Siverk.
+- Investigar como manipular y moldear aluminio
