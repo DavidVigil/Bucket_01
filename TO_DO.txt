@@ -31,5 +31,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 - Diseñar sistemas de refleccion y refracción que permitan
   canalizar una gran cantidad de luz en un solo punto (Estudiar
   óptica).
-- Investigar metales eficientes para el principio de Siverk.
+- Investigar metales eficientes para el principio de Seebeck.
 - Investigar como manipular y moldear aluminio
