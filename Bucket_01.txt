@@ -143,3 +143,6 @@ del calor. Nos centramos en la teoría termoeléctrica.
   energía eléctrica.
 --------------------------------------------------------------------
 Mayo 28/Reunión 9:
+-Arturo: Mencioné las limitaciines que tiene el motor stirling para 
+generar energía suficiente. Retomé la idea de utilizar agua para 
+producir vapor y mover un generador.
