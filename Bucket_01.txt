@@ -144,10 +144,12 @@ del calor. Nos centramos en la teoría termoeléctrica.
 --------------------------------------------------------------------
 Mayo 28/Reunión 9:
 En esta reunión se discutió la relevancia de implementar los motores
-Stirling comparado con otro tipo de motores. Discutimos el problema 
+Stirling comparado con otro tipo de motores. Discutimos el problema
 que representa utilizar agua y vapor en el dispositivo, ya que
-requiere más espacio. Se repasaron los principios de Seebeck y de 
+requiere más espacio. Se repasaron los principios de Seebeck y de
 Peltier.
-- Arturo: Mencioné las limitaciines que tiene el motor stirling para 
-generar energía suficiente. Retomé la idea de utilizar agua para 
+- Arturo: Mencioné las limitaciines que tiene el motor stirling para
+generar energía suficiente. Retomé la idea de utilizar agua para
 producir vapor y mover un generador.
+--------------------------------------------------------------------
+Junio 4/Reunión 10
