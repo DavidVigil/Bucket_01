@@ -7,9 +7,9 @@ cada reunión de la siguiente manera:
 Ejemplo:
 Marzo 22/Reunión 0:
 - David:
-  Este proyecto busca desarrollar hardware de calidad capaz de
-  recolectar y almacenar energía (tentativamente solar y eólica).
-  Podemos utilizar arduino e implementar simulaciones con Blender
+  Este proyecto busca desarrollar hardware de calidad capaz de reco-
+  lectar y almacenar energía (tentativamente solar y eólica).
+  Podemos utilizar arduino e implementar simulaciones con Blender.
 --------------------------------------------------------------------
 Marzo 26/Reunión 1:
 Hicimos pruebas con Atom y las funciones de GitHub.
@@ -43,62 +43,71 @@ Abril 16/Reunión 3:
 Repasamos las ideas expuestas en reuniones anteriores.
 Determinamos que el uso de PET reciclado no es viable.
 Compartimos conocimiento de la generación de energía solar y eólica.
-- David: Propuse turbinas de eje vertical para aprovechar la energía
-  eólica y planteé 2 arreglos posibles para optimizar el sistema.
-  Compartí mi investigación sobre Two Phase Immersion Cooling
-  Systems.
-- Diego: Comenté las dos vías existentes (métodos químicos y
-  métodos mecánicos) por las cuales es posible el reciclaje de
-  PVC. Propuse el aluminio o las resinas epoxy como material
-  para las aspas en las turbinas eólicas aunque queda por comprobar
-  la viabilidad de ambos materiales.
+- David:
+  Propuse turbinas de eje vertical para aprovechar la energía eólica
+  y planteé 2 arreglos posibles para optimizar el sistema.
+  Compartí mi investigación sobre Two Phase Immersion Cooling Sys-
+  tems.
+- Diego:
+  Comenté las dos vías existentes (métodos químicos y métodos mecá-
+  nicos) por las cuales es posible el reciclaje de PVC. Propuse el
+  aluminio o las resinas epoxy como material para las aspas en las
+  turbinas eólicas aunque queda por comprobar la viabilidad de am-
+  bos materiales.
 --------------------------------------------------------------------
 Abril 23/Reunión 4:
 Discutimos los materiales que se pueden emplear para las hélices de
 las turbinas, así como para el resto del dispositivo. Mencionamos
 la forma en la que se puede multiplicar la fuerza de las turbinas.
 Aclaramos las normas para añadir nuevos integrantes al proyecto.
-- Arturo: Comenté sobre la reducción de engranes para potenciar el
-  movimiento del generador.
-- David: Expuse las propiedades de la resina epoxy que pueden ser
-  de utilidad para el dispositivo. Propuse 2 modelos que permiten
-  disipar el calor utilizando Novec o canalizarlo con barras de
-  metal para crear burbujas y aprovechar su energía cinética.
-- Fernando: Propuse las aleaciones con base de magnesio debido a
-  que es el material más ligero y mas utilizado en la industria
-  mecánica y aeroespacial, por lo que no será difícil su
-  investigación aparte de ser uno de los materiales más abundantes
-  de la tierra.
-- Gibrán: Expuse sobre las ventajas que puede tener el aluminio
-  como material a usar no sólo en las turbinas, investigué sobre
-  la reducción de engranajes para cambiar fuerza por velocidad y
-  mediante inducción, poder generar una corriente alterna.
+- Arturo:
+  Comenté sobre la reducción de engranes para potenciar el movi-
+  miento del generador.
+- David:
+  Expuse las propiedades de la resina epoxy que pueden ser de utili-
+  dad para el dispositivo.
+  Propuse 2 modelos que permiten disipar el calor utilizando Novec o
+  canalizarlo con barras de metal para crear burbujas y aprovechar
+  su energía cinética.
+- Fernando:
+  Propuse las aleaciones con base de magnesio debido a que es el
+  material más ligero y más utilizado en la industria mecánica y
+  aeroespacial, por lo que no será difícil su investigación aparte
+  de ser uno de los materiales más abundantes de la tierra.
+- Gibrán:
+  Expuse sobre las ventajas que puede tener el aluminio como mate-
+  rial a usar no sólo en las turbinas, investigué sobre la reducción
+  de engranajes para cambiar fuerza por velocidad y mediante indu-
+  cción, poder generar una corriente alterna.
 --------------------------------------------------------------------
 Abril 30/Reunión 5:
 En esta reunión se expusieron los distintos enfoques que existen
 sobre el diseño del dispositivo, y sincronizamos nuestras metas
 sobre las caracteristicas del mismo. Discutimos materiales y modelos.
-- Arturo: Expliqué el cálculo de reducción de engranajes para
-  conseguir una mayor velocidad de salida del sistema. Propuse un
-  modelo de 3 turbinas para aprovechar las corrientes que se generan
-  entre ellas para producir más energía sin la necesidad de una gran
-  corriente de aire. Propuse un sistema de generación de energía con
-  vapor de agua como manera de aprovechar el calor que se pueda
-  generar con el sol.
-- Gibrán: Comenté sobre las reducciones de engranajes de 1 o 2
-  ejes. Investigué sobre los cálculos matemáticos necesarios para
-  dicha reducción. Comenté acerca el circuito que debe de tener
-  internamente para almacenar la energía con un convertidor de
-  corriente para tener un voltaje de salida conveniente a dispositi-
-  vos que ocupen poca corriente.
-- Fernando: Comenté el agua destilada como una alternativa al Novec
-  ya que no conduce corriente. Propuse una estructura aerodinámica
-  para el proyecto con impresión 3D. Propuse una forma de distribuir
-  los paneles solares.
-- David: Planteé la implementación de un domo de policarbonato para
-  proteger el dispositivo de la lluvia y el granizo sin obstruir
-  el paso de la luz. También sugerí un sistema de adhesión para
-  diversas superficies.
+- Arturo:
+  Expliqué el cálculo de reducción de engranajes para conseguir una
+  mayor velocidad de salida del sistema. Propuse un modelo de 3 tur-
+  binas para aprovechar las corrientes que se generan entre ellas
+  para producir más energía sin la necesidad de una gran corriente
+  de aire.
+  Propuse un sistema de generación de energía con vapor de agua como
+  manera de aprovechar el calor que se pueda generar con el sol.
+- Gibrán:
+  Comenté sobre las reducciones de engranajes de 1 o 2 ejes. Inves-
+  tigué sobre los cálculos matemáticos necesarios para dicha
+  reducción. Comenté acerca el circuito que debe de tener interna-
+  mente para almacenar la energía con un convertidor de corriente
+  para tener un voltaje de salida conveniente a dispositivos que
+  ocupen poca corriente.
+- Fernando:
+  Comenté el agua destilada como una alternativa al Novec ya que no
+  conduce corriente. Propuse una estructura aerodinámica para el pro-
+  yecto con impresión 3D. Propuse una forma de distribuir los paneles
+  solares.
+- David:
+  Planteé la implementación de un domo de policarbonato para proteger
+  el dispositivo de la lluvia y el granizo sin obstruir el paso de la
+  luz. También sugerí un sistema de adhesión para diversas superficies.
 --------------------------------------------------------------------
 Mayo 7/Reunión 6:
 En esta reunión, el miembro nuevo más reciente (Ricardo) escuchó la
@@ -108,17 +117,19 @@ de los puntos más importantes del desarrollo.
 Mayo 14/Reunión 7:
 En esta reunión se implementó la herramienta "Teletype" para agili-
 zar la edición de los documentos del equipo.
-- David: Mencioné la características del policarbonato y reiteré la
-  razón por la que se eligió este material. A comparación del acrí-
-  lico, el policarbonato resiste 250 veces más que el vidrio, mien-
-  tras que el acrílico resiste unicamente 17 veces más que el vidrio.
-  Sin embargo, el policarbonato deja pasar el 88% de la luz y el
-  acrílico permite un 92%. El policarbonato soporta una temperatura
-  de 115 grados y el acrílico soporta 87 grados. Si bien no es una
-  opción muy económica, es facílmente uno de los elementos de mayor
-  importancia para el diseño del dispositivo.
-- Fernando: Se apoya con la implementación de Teletype a los
-  miembros del equipo, registro e ingreso.
+- David:
+  Mencioné la características del policarbonato y reiteré la razón
+  por la que se eligió este material. A comparación del acrílico, el
+  policarbonato resiste 250 veces más que el vidrio, mientras que el
+  acrílico resiste unicamente 17 veces más que el vidrio. Sin embar-
+  go, el policarbonato deja pasar el 88% de la luz y el acrílico
+  permite un 92%. El policarbonato soporta una temperatura de 115
+  grados y el acrílico soporta 87 grados. Si bien no es una opción
+  muy económica, es facílmente uno de los elementos de mayor impor-
+  tancia para el diseño del dispositivo.
+- Fernando:
+  Se apoya con la implementación de Teletype a los miembros del
+  equipo, registro e ingreso.
   Mencioné la posibilidad de colocar ventiladores dentro de otro
   ventilador a forma de Matrioshka para aumentar el aprovechamiento
   del flujo.
@@ -127,56 +138,67 @@ Mayo 21/Reunión 8:
 En esta reunión se discutió la importancia y trascendencia de este
 proyecto y su impacto global. Nos centramos en el aprovechamiento
 del calor. Nos centramos en la teoría termoeléctrica.
-- David: Hablé sobre el efecto Seebeck y las celdas Peltier, además
-  de mencionar los últimos avances tecnológicos de las celdas solares
-  (Perovskite). Propuse 2 formas para aprovechar el calor, basado en
-  los efectos anteriores.
-- Gibrán: Mencioné técnicas de origami para poder plegar los paneles
-  de la flor y mencioné una forma de poder separar la luz para
-  aprovechar las ondas de calor.
-- Diego: Complemente la idea de Arturo al utilizar los motores Stirling
-  para tambien disipar el calor y usarlos como medio de enfriamiento.
-  Mencione que existen modelos de paneles solares que constan de una
-  matriz de lentes cuya funcion es dirigir y concentrar la luz solar.
-- Arturo: Presenté la idea de utilizar un motor Stirling como forma de
-  aprovechar el calor concentrado del sol para generar un poco más de
+- David:
+  Hablé sobre el efecto Seebeck y las celdas Peltier, además de men-
+  cionar los últimos avances tecnológicos de las celdas solares
+  (Perovskite).
+  Propuse 2 formas para aprovechar el calor, basado en los efectos
+  anteriores.
+- Gibrán:
+  Mencioné técnicas de origami para poder plegar los paneles de la
+  flor y mencioné una forma de poder separar la luz para aprovechar
+  las ondas de calor.
+- Diego:
+  Complementé la idea de Arturo al utilizar los motores Stirling
+  para también disipar el calor y usarlos como medio de enfriamiento.
+  Mencioné que existen modelos de paneles solares que constan de una
+  matriz de lentes cuya función es dirigir y concentrar la luz solar.
+- Arturo:
+  Presenté la idea de utilizar un motor Stirling como forma de apro-
+  vechar el calor concentrado del sol para generar un poco más de
   energía eléctrica.
 --------------------------------------------------------------------
 Mayo 28/Reunión 9:
 En esta reunión se discutió la relevancia de implementar los motores
 Stirling comparado con otro tipo de motores. Discutimos el problema
-que representa utilizar agua y vapor en el dispositivo, ya que
-requiere más espacio. Se repasaron los principios de Seebeck y de
+que representa utilizar agua y vapor en el dispositivo, ya que re-
+quiere más espacio. Se repasaron los principios de Seebeck y de
 Peltier.
-- Arturo: Mencioné las limitaciones que tiene el motor stirling para
-generar energía suficiente. Retomé la idea de utilizar agua para
-producir vapor y mover un generador.
+- Arturo:
+  Mencioné las limitaciones que tiene el motor Stirling para generar
+  energía suficiente. Retomé la idea de utilizar agua para producir
+  vapor y mover un generador.
 --------------------------------------------------------------------
-Junio 4/Reunión 10
-En esta reunión  se discutió el diseño que se implementará para
-generar energía termoeléctrica. Elegímos utilizar el principio de
-Seebeck. Hablamos sobre las formas más convenientes de moldear
-aluminio y de la posible adquisición de una impresora 3D para uso
-exclusivo de la UPE.
-- David: Propuse utilizar esferas de cristal transparente para
-  concentrar la luz en un punto focal cercano a la esfera. De esta
-  forma, la esfera absorbe parte del calor que podría dañar el panel
-  solar. También expuse las ventajas de implementar el pricnipio de
-  Seebeck en lugar de utilizar celdas Peltier, ya que utilizar hielo
-  seco se vuelve problemático al tener que mantener prresión
+Junio 4/Reunión 10:
+En esta reunión  se discutió el diseño que se implementará para ge-
+nerar energía termoeléctrica. Elegímos utilizar el principio de See-
+beck. Hablamos sobre las formas más convenientes de moldear aluminio
+y de la posible adquisición de una impresora 3D para uso exclusivo
+de la UPE.
+- David:
+  Propuse utilizar esferas de cristal transparente para concentrar
+  la luz en un punto focal cercano a la esfera. De esta forma, la
+  esfera absorbe parte del calor que podría dañar el panel solar.
+  También expuse las ventajas de implementar el principio de See-
+  beck en lugar de utilizar celdas Peltier, ya que utilizar hielo
+  seco se vuelve problemático al tener que mantener presión
   constante.
-- Fernando: Comenté: el metodo de manipulación de aluminio a utilizar,
-  utilizando calor y moldes para obtener la forma correcta, las
-  desventajas del uso de hielo seco para obtener energia eléctrica
-  mediante el efecto Seebeck y los precios de algunos materiales así
-  como el de la impresora 3D.
-- Ricardo: Apoyo la implementacion del principio de Peltier con la
-  generacion de energia a base de la diferencia de temperatura por que
-  comparado a Seebeck este nos brinda mayor cantidad de voltaje,
-  aunque su unica deficiencia es conseguir una forma viable de enfriar uno
-  de los metales, al igual expuse la idea de utilizar calibres de
-  aluminios de menor grado para modelar mejor las elices consiguiendo
-  una mayor eficiencia aerodinamica.
-- Gibrán: Comenté algunos materiales como el telurio debismuto, el
-  antimonio o el selenuro, estos usados en la pilas termoeléctricas.
+- Fernando:
+  Comenté: el método de manipulación de aluminio a utilizar, con ca-
+  lor y moldes para obtener la forma correcta, el uso de piedras de
+  acuario con un lado plano y uno poco curvo para reflejar la luz al
+  centro de la flor, las desventajas del uso de hielo seco para ob-
+  tener energía eléctrica mediante el efecto Seebeck y los precios
+  de algunos materiales así como el de la impresora 3D.
+- Ricardo:
+  Apoyo la implementación del principio de Peltier con la generación
+  de energía a base de la diferencia de temperatura porque comparado
+  a Seebeck, éste nos brinda mayor cantidad de voltaje, aunque su
+  única deficiencia es conseguir una forma viable de enfriar uno de
+  los metales, al igual expuse la idea de utilizar calibres de alu-
+  minios de menor grado para modelar mejor las hélices, consiguiendo
+  una mayor eficiencia aerodinámica.
+- Gibrán:
+  Comenté algunos materiales como el telurio de bismuto, el antimo-
+  nio o el selenuro, éstos usados en las pilas termoeléctricas.
 --------------------------------------------------------------------
