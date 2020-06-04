@@ -148,8 +148,35 @@ Stirling comparado con otro tipo de motores. Discutimos el problema
 que representa utilizar agua y vapor en el dispositivo, ya que
 requiere más espacio. Se repasaron los principios de Seebeck y de
 Peltier.
-- Arturo: Mencioné las limitaciines que tiene el motor stirling para
+- Arturo: Mencioné las limitaciones que tiene el motor stirling para
 generar energía suficiente. Retomé la idea de utilizar agua para
 producir vapor y mover un generador.
 --------------------------------------------------------------------
 Junio 4/Reunión 10
+En esta reunión  se discutió el diseño que se implementará para
+generar energía termoeléctrica. Elegímos utilizar el principio de
+Seebeck. Hablamos sobre las formas más convenientes de moldear
+aluminio y de la posible adquisición de una impresora 3D para uso
+exclusivo de la UPE.
+- David: Propuse utilizar esferas de cristal transparente para
+  concentrar la luz en un punto focal cercano a la esfera. De esta
+  forma, la esfera absorbe parte del calor que podría dañar el panel
+  solar. También expuse las ventajas de implementar el pricnipio de
+  Seebeck en lugar de utilizar celdas Peltier, ya que utilizar hielo
+  seco se vuelve problemático al tener que mantener prresión
+  constante.
+- Fernando: Comenté: el metodo de manipulación de aluminio a utilizar,
+  utilizando calor y moldes para obtener la forma correcta, las
+  desventajas del uso de hielo seco para obtener energia eléctrica
+  mediante el efecto Seebeck y los precios de algunos materiales así
+  como el de la impresora 3D.
+- Ricardo: Apoyo la implementacion del principio de Peltier con la
+  generacion de energia a base de la diferencia de temperatura por que
+  comparado a Seebeck este nos brinda mayor cantidad de voltaje,
+  aunque su unica deficiencia es conseguir una forma viable de enfriar uno
+  de los metales, al igual expuse la idea de utilizar calibres de
+  aluminios de menor grado para modelar mejor las elices consiguiendo
+  una mayor eficiencia aerodinamica.
+- Gibrán: Comenté algunos materiales como el telurio debismuto, el
+  antimonio o el selenuro, estos usados en la pilas termoeléctricas.
+--------------------------------------------------------------------

@@ -28,8 +28,9 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
 - [DISMISSED] Investigar buenos materiales conductores térmicos.
 - [DISMISSED] Investigar materiales de "la flor" (Como pegar las partes).
 - Investigar el funcionamiento y practicidad de la maquina de vapor.
-- Diseñar sistemas de refleccion y refracción que permitan
+- [DONE] Diseñar sistemas de refleccion y refracción que permitan
   canalizar una gran cantidad de luz en un solo punto (Estudiar
   óptica).
-- Investigar metales eficientes para el principio de Seebeck.
+- Investigar metales eficientes para el principio de Seebeck (Parejas de metales).
 - Investigar como manipular y moldear aluminio
+- Diseñar la flor.
