@@ -196,10 +196,24 @@ de la UPE.
   a Seebeck, éste nos brinda mayor cantidad de voltaje, aunque su
   única deficiencia es conseguir una forma viable de enfriar uno de
   los metales, al igual expuse la idea de utilizar calibres de alu-
-  minios de menor grado para modelar mejor las hélices, consiguiendo
+  minio de menor grado para modelar mejor las hélices, consiguiendo
   una mayor eficiencia aerodinámica.
 - Gibrán:
   Comenté algunos materiales como el telurio de bismuto, el antimo-
   nio o el selenuro, éstos usados en las pilas termoeléctricas.
 --------------------------------------------------------------------
-Junio 8/Reunión 11
+Junio 8/Reunión 11:
+En esta reunión se analizaron 2 posibles diseños para "la flor" del
+dispositivo. Se discutió la forma de generar corriente, ya sea al-
+terna o continua.
+- David:
+  Mejoré el simulador para los engranes que vamos a utilizar en las
+  turbinas, logrando una reducción de 1:100. Expliqué el modelo
+  para el generador que utiliza un disco de cobre y compartí mi
+  diseño de la flor utilizando 36 paneles solares, 18 canicas y 3
+  sistemas de alambres que siguen el principio de Seebeck.
+- Fernando:
+  Mostré mi diseño para la flor incluyendo: origami, principio de
+  Seebeck y Peltier, aerodinamismo (protesis 3D), conexión directa
+  de los dispositivos y reflección de luz.
+  Indiqué el

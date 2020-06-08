@@ -37,3 +37,5 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   (Parejas de metales).
 - Investigar como manipular y moldear aluminio.
 - Diseñar la flor.
+- Investigar los procesos involucrados en la obtención de corriente
+  alterna y corriente continua.
