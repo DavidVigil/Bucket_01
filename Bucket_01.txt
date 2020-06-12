@@ -219,3 +219,27 @@ terna o continua.
   Indiqué el
 --------------------------------------------------------------------
 Junio 11/Reunión 12:
+Em esta reunión se discutieron aspectos de diseño relacionados al
+tipo de corriente que vamos a generar con las turbinas eólicas.
+Aseguramos que se va a generar corriente continua desde los paneles
+solares, pero debemos resolver el problema de generar corriente
+alterna y convertirla en corriente continua sin aumentar el costo de
+producción.
+- Fernando:
+  Comenté las formas de obtener CA y CC asi como el tipo generado
+  por las celdas solares, Mandé las bases para configurar Blender en
+  caso de usar una laptop y comenzar con la parte de DISEÑO.
+- Gibrán:
+  Defendí el modelo de poner un imán giratorio en el generador cre-
+  ando CA y usar un transformador conectado a todas las turbinas
+  para convertirla en CD y evitar problemas para pasar la
+  electricidad del metal inducido al sistema.
+- David:
+  Propuse implementar un disco de cobre que gire junto con el sistema
+  de engranes y que pase por campos magnéticos para generar corriente
+  eléctrica continua, el problema con esta propuesta consiste en que
+  resulta dificil canalizar la energía eléctrica que se desplaza sobre
+  el disco en movimiento hacia otro lugar. Tambien hablé sobre la
+  conveniencia de utilizar 1 o más convertidores de corriente alterna
+  a corriente continua para no elevar el costo de producción.
+--------------------------------------------------------------------
