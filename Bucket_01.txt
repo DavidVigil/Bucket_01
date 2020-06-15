@@ -260,6 +260,7 @@ para entender los fundamentos básicos de Blender.
   Comenté los precios del alambre de cobre para implementarlo en
   las bobinas y plantear la situación del modelo más efectivo para
   hacer girar las mismas o declinar por girar el imán.
-- Arturo: Expliqué las desventajas de tener un generador se vapor
+- Arturo: 
+  Expliqué las desventajas de tener un generador se vapor
   por lo que no es viable su implementación en el espacio disponible 
   que tenemos.
