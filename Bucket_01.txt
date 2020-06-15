@@ -244,3 +244,19 @@ producción.
   a corriente continua para no elevar el costo de producción.
 --------------------------------------------------------------------
 Junio 15/Reunión 13:
+En esta reunión se discutió la importancia de generar corriente
+continua desde el inicio para ahorrar espacio y dinero. Se determinó
+que serían las bobinas de cobre las que girarían para generar
+corriente, pero al comparar el peso del cobre con el de un imán de
+neodimio, decidimos utilizar al imán como el elemento que gira en el
+generador. También se estableció un lapso de tiempo de una semana
+para entender los fundamentos básicos de Blender.
+- David:
+  Menconé el aumento significativo en el costo de producción si se
+  utilizan uno o más convertidores de corriente alterna a corriente
+  continua. Propuse girar las bobinas de cobre e implementar un
+  "Colector" para canalizar la corriente generada.
+- Gibrán:
+  Comenté los precios del alambre de cobre para implementarlo en
+  las bobinas y plantear la situación del modelo más efectivo para
+  hacer girar las mismas o declinar por girar el imán.
