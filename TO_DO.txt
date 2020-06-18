@@ -41,3 +41,4 @@ Seguiremos el principio "D.A.D.C.C.V.D.M." para este proyecto.
   alterna y corriente continua.
 - Investigar la mejor disposición para un generador, donde gira el imán
 - Terminar la los tutoriales de Blender (Lunes 22 de Junio).
+- Investigar materiales de impresión 3D que sean ligeros para los engranes.

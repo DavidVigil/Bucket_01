@@ -266,3 +266,10 @@ para entender los fundamentos básicos de Blender.
   que tenemos.
 --------------------------------------------------------------------
 Junio 18/Reunión 14:
+En esta reunión se discutió la estructura que adoptará el generador
+eólico y cómo los campos magnéticos deben tener la orientación ade-
+cuada para generar corriente eléctrica.
+- David: Compartí un documento sobre los generadores electromagnéti-
+  cos para turbinas eólicas donde se puede ver la mejor disposición
+  de los imánes y propuse utilizar 8 enrollados de cobre, perpendi-
+  culares al disco que contiene a los 8 imánes.
