@@ -273,3 +273,5 @@ cuada para generar corriente eléctrica.
   cos para turbinas eólicas donde se puede ver la mejor disposición
   de los imánes y propuse utilizar 8 enrollados de cobre, perpendi-
   culares al disco que contiene a los 8 imánes.
+--------------------------------------------------------------------
+Junio 22/Reunión 15: 
