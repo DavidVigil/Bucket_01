@@ -269,9 +269,36 @@ Junio 18/Reunión 14:
 En esta reunión se discutió la estructura que adoptará el generador
 eólico y cómo los campos magnéticos deben tener la orientación ade-
 cuada para generar corriente eléctrica.
-- David: Compartí un documento sobre los generadores electromagnéti-
+- David:
+  Compartí un documento sobre los generadores electromagnéti-
   cos para turbinas eólicas donde se puede ver la mejor disposición
   de los imánes y propuse utilizar 8 enrollados de cobre, perpendi-
   culares al disco que contiene a los 8 imánes.
 --------------------------------------------------------------------
-Junio 22/Reunión 15: 
+Junio 22/Reunión 15:
+En esta reunión se expusieron los diversos problemas que se deben
+tomar en cuenta para diseñar los engranes.
+- David:
+  Propongo utilizar "Double Helical gears" para disminuir el riesgo
+  de desface entre los engranes. Es necesario rediseñar el sistema
+  de reducción, ya que si usamos engranes de 4 y 40 dientes, corre-
+  mos diversos riesgos.
+  Los mismos dientes se van a encontrar entre sí una y otra vez,
+  creando "wear". Si creamos un desface utilizando engranes de
+  4 y 41 dientes, este "wear" se extiende a lo largo de todo el
+  engrane y reducimos el desgaste que pueda producir cualquier
+  imperfección de la impresión 3D.
+  Tambien es necesario reforzar los dientes de los engranes, para
+  ello, se deben imprimir sobre un soporte con forma de aro que es
+  cubre unicamente la parte de los dientes del engrane. Por razones
+  evidentes, no se van a imprimir los 4 engranes de forma separada.
+  El diseño requiere imprimir unicamente 3 piezas, todas con un di-
+  seño distinto que asegura la estabilidad y ligereza de los engra-
+  nes. El mejor material para engranes impresos en 3D es Nylon. Es-
+  te material es ligero y resistente. Su preciio puede subir depen-
+  diendo del grosor del filamento, para estos engranes, sugiero un
+  grosor de 1.75mm, que tiene un costo aproximado de $700 por 1/2lb.
+  La forma de los dientes es muy fácil de diseñar, aunque debemos
+  reconsiderar si queremos utilizar 4 dientes como mínimo. El míni-
+  mo recomendado es de 15 dientes, por lo que tendríamos que hacer
+  el mismo sistema con 15 y 151 dientes.
