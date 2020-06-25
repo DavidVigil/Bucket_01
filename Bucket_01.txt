@@ -304,3 +304,14 @@ tomar en cuenta para diseñar los engranes.
   el mismo sistema con 15 y 151 dientes.
 --------------------------------------------------------------------
 Junio 25/Reunión 16:
+En esta reunión se probaron diferentes alternativas en el sistema de
+engranes para lograr un ratio de 1:300 en cada turbina. Se determinó
+que para optimizar espacio y estabilidad, el ratio máximo debe ser
+de 1:100, utilizando engranes de 151, 15, 181 y 18 dientes.
+- David:
+  Propuse una reducción de tamaño en la segunda parte del sistema de
+  engranes, de forma que fueran 2/3 más pequeños los engranes de esa
+  sección que los de la primera.
+- Fernando:
+  Discutí la importancia de optimizar el espacio que ocupa el siste-
+  ma de reducción de engranajes.
