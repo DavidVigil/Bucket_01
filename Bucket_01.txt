@@ -302,3 +302,5 @@ tomar en cuenta para diseñar los engranes.
   reconsiderar si queremos utilizar 4 dientes como mínimo. El míni-
   mo recomendado es de 15 dientes, por lo que tendríamos que hacer
   el mismo sistema con 15 y 151 dientes.
+--------------------------------------------------------------------
+Junio 25/Reunión 16:
